@@ -25,7 +25,8 @@ class FilmReleaseContainer extends Component{
         },
         {
           id: 4,
-          name: "The Lego Movie 2: The Second Part", url: "https://www.imdb.com/title/tt3513498/?ref_=rlm"
+          name: "The Lego Movie 2: The Second Part",
+          url: "https://www.imdb.com/title/tt3513498/?ref_=rlm"
         },
         {
           id: 5,
